@@ -1,0 +1,70 @@
+
+
+/*font-family: 'Wendy One', sans-serif;
+font-family: 'Roboto', sans-serif;*/
+
+body{
+    background-image: url(../images/sushi.png);
+}
+
+h1{
+    font-family: 'Wendy One', sans-serif;
+    color: #ff3300; 
+}
+
+.col-lg-8{
+    background: white;
+}
+
+.lead{
+    font-family: 'Roboto', sans-serif;
+    color: #33cc33;
+}
+.jumbotron {
+    background-color: white;
+    border: 2px solid #33cc33;
+    align-items: left;
+}
+
+
+
+h3{
+    font-family: 'Wendy One', sans-serif;
+    color: #ff3300; 
+    text-align: center;
+}
+
+#timerDisplay{
+    margin: auto;
+    font-family: 'Wendy One', sans-serif;
+    color: #33cc33;
+    font-size: 40px;
+    text-align: center;
+    background-color: white;
+    align-content: center;
+}
+
+.quizZone{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+form {
+width: 100%;
+margin-top:10px;
+margin-bottom: 10px;
+margin-left: auto;
+margin-right: auto;
+padding-top:10px;
+text-align: center;
+line-height: 25px;
+font-family:'Roboto', sans-serif;
+color: black;
+align-items: center;
+justify-content: center;
+text-align: center;
+border-top: 1px solid #ff3300;
+border-bottom: 1px solid #33cc33;
+}
